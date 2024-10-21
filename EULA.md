@@ -10,5 +10,4 @@ By clicking the Agree button and using the Firefly Operating System or Lightning
 - Allow any user(s) to download files, inclusing programs
 - Allow any app(s) to use features required to run that app
 
-You are also agreeing to accept future versions of this EULA without it being shown to you, as it can be updated at any time. If you wish to view this document again, you can find it at [this link](https://scratchfakemon.github.io/Firefly/oops).
-(The link above doesn't work yet!)
+You are also agreeing to accept future versions of this EULA without it being shown to you, as it can be updated at any time. If you wish to view this document again, you can find it at [this link](https://scratchfakemon.github.io/Firefly/EULA).
