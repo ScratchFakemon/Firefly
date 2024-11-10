@@ -1,12 +1,26 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+  <title>Home Base</title>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Home Base</title>
+  <header>
   <h3>Press X to exit</h3>
   <h3>Press B to go back</h3>
+  
+  </header>
+  <h1>Home Base</h1>
+
+
+  
   <style>
+    header {
+      background-color: #635225;
+      color: #ffffff;
+      font-family: "Trebuchet MS", sans-serif;
+      margin: 30;
+      padding: 30;
+    }
     body {
       background-color: #382c0c;
       color: #ffffff;
@@ -45,6 +59,7 @@
       border-radius: 5px;
       text-align: center;
       cursor: pointer; /* Ensures entire item is clickable */
+      margin-left: 60px;
     }
     .os-list-item h2 {
       font-size: 1.5em;
@@ -57,8 +72,8 @@
       background-color: #a28a4d;
     }
     .os-list-item img {
-      max-width: 100px;
-      height: auto;
+      /*max-width: 100px;*/
+      max-height: 100px;
     }
   </style>
   <script>
@@ -95,7 +110,7 @@
       <li class="os-list-item" data-link="https://scratchfakemon.github.io/Firefly/Home%20Base/Presets/PaweR%20OS">
         <img src="images/PaweR OS.png" alt="PaweR OS logo"> <h2>PaweR OS Andromeda 1.0</h2>
         <p>Creator: PaweR_Develop</p>
-        <p>Description: PaweR OS is an operating system based on Micro Consen similar to Bambus OS, but it's better for intermediate users.</p>
+        <p>Description: PaweR OS is a simple operating system powered by Micro Consen.</p>
       </li>
     </ul>
   </div>
